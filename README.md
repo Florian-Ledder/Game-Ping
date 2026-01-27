@@ -1,3 +1,7 @@
+![Version](https://img.shields.io/badge/version-0.1.0--beta-orange)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+
 # Server Monitor (Beta)
 
 
