@@ -4,6 +4,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![Gamedig](https://img.shields.io/badge/Powered%20by-Gamedig-ff69b4?style=for-the-badge)
+![Flow Monitor Banner](https://via.placeholder.com/1000x300?text=Flow+Monitor+Beta+-+Multi-Server+Tracking)
 
 
 <img width="1902" height="952" alt="full_html" src="https://github.com/user-attachments/assets/f8b37275-bace-4a47-9a20-5a3c739216a8" />
