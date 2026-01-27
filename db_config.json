@@ -1,0 +1,9 @@
+{
+  "use_remote_sql": false,
+  "remote": {
+    "host": "dbhost/ip/domain",
+    "user": "dbuser",
+    "password": "dbpassword",
+    "database": "databasename"
+  }
+}

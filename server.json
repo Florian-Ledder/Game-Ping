@@ -1,0 +1,16 @@
+[
+        {
+            "id": "lobby-mc",
+            "name": "Community Lobby (Minecraft)",
+            "type": "minecraft",
+            "host": "mc.hypixel.net",
+            "port": 25565
+        },
+        {
+            "id": "ark-official",
+            "name": "Survival Island (ARK)",
+            "type": "arkse",
+            "host": "116.203.77.82",
+            "port": 27015
+        }
+    ]
