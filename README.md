@@ -4,14 +4,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![Gamedig](https://img.shields.io/badge/Powered%20by-Gamedig-ff69b4?style=for-the-badge)
-<p align="left">
-  <a href="https://flowcommunity.de">
-    <img src="https://img.shields.io/badge/FlowCommunity-Server-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMiA3djEwbDEwIDUgMTAtNVY3TDEyIDJ6bTAgMi44Mmw2LjI4IDMuMThMMTIgMTEuMTggNS43MiA4IDEyIDQuODJ6TTQgOC44Nmw3IDMuNTV2Ny4zMmwtNy0zLjV2LTcuMzd6bTEzIDcuMzhsLTcgMy41di03LjMybDcgLTMuNTV2Ny4zN3oiLz48L3N2Zz4=" />
-  </a>
-  <a href="https://flowcommunity.de">
-    <img src="https://img.shields.io/badge/FlowCommunity-Monitor-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTMuNSAxOC41TDUgMTEuOWw0LjMgNC4zIDUuNy03IDMuNSAzLjVMOC41IDQuN0wyIDExLjJsMS41IDcuM3pNMjAgMmgtMnYyMGgyVjJ6Ii8+PC9zdmc+" />
-  </a>
-</p>
+
 [Deutsch](#deutsch) | [English](#english)
 
 ---
