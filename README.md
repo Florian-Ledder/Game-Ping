@@ -6,13 +6,13 @@
 ![Gamedig](https://img.shields.io/badge/Powered%20by-Gamedig-ff69b4?style=for-the-badge)
 <table>
   <tr>
-    <td bgcolor="#333" align="center">
-      <img src="https://flowcommunity.de/icons/Server.svg" width="24" height="24" valign="middle">
-      <font color="white"><b>FlowCommunity</b></font>
+    <td bgcolor="#222222" align="center" width="200">
+      <img src="https://flowcommunity.de/icons/Server.svg" width="32" height="32"><br>
+      <font color="#ffffff">FlowCommunity</font>
     </td>
-    <td bgcolor="#333" align="center">
-      <img src="https://flowcommunity.de/icons/Liniengraphen.svg" width="24" height="24" valign="middle">
-      <font color="white"><b>Server Monitor</b></font>
+    <td bgcolor="#222222" align="center" width="200">
+      <img src="https://flowcommunity.de/icons/Liniengraphen.svg" width="32" height="32"><br>
+      <font color="#ffffff">Server Monitor</font>
     </td>
   </tr>
 </table>
