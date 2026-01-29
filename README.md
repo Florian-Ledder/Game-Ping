@@ -7,7 +7,7 @@
 ![Flow Monitor Banner](https://via.placeholder.com/1000x300?text=Flow+Monitor+Beta+-+Multi-Server+Tracking)
 
 
-<img width="1902" height="952" alt="full_html" src="[https://github.com/user-attachments/assets/f8b37275-bace-4a47-9a20-5a3c739216a8](https://flowcommunity.de/icons/Server.svg)" />
+<img width="32" height="32" src="https://flowcommunity.de/icons/Server.svg" />
 
 
 <img width="1919" height="954" alt="cut_html" src="https://github.com/user-attachments/assets/96035bf1-1400-4b28-b5a0-86b5870ff568" />
