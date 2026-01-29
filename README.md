@@ -6,7 +6,7 @@
 ![Gamedig](https://img.shields.io/badge/Powered%20by-Gamedig-ff69b4?style=for-the-badge)
 <p align="left">
   <img src="https://flowcommunity.de/icons/Server.svg" width="32" height="32" style="filter: brightness(0) invert(1);">
-  <img src="https://flowcommunity.de/icons/Liniengraphen.svg" width="32" height="32" style="filter: brightness(0) invert(1);">
+  <img src="https://flowcommunity.de/icons/Liniengraphen.svg" width="32" height="32" style="filter: brightness(0) invert(1); margin-left: 10px;">
 </p>
 
 
