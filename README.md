@@ -10,7 +10,7 @@
 <img width="32" height="32" src="https://flowcommunity.de/icons/Server.svg" />
 
 
-<img width="1919" height="954" alt="cut_html" src="https://github.com/user-attachments/assets/96035bf1-1400-4b28-b5a0-86b5870ff568" />
+<img width="1919" height="954" alt="cut_html" src="https://flowcommunity.de/icons/Liniengraphen.svg" />
 
 
 
