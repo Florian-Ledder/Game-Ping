@@ -4,16 +4,18 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![Gamedig](https://img.shields.io/badge/Powered%20by-Gamedig-ff69b4?style=for-the-badge)
-<p align="left">
-  <a href="https://github.com/dein-nutzername/dein-repo">
-    <img src="https://flowcommunity.de/icons/Server.svg#gh-dark-mode-only" width="32" height="32" align="left">
-    <img src="https://flowcommunity.de/icons/Liniengraphen.svg#gh-dark-mode-only" width="32" height="32" align="left">
-  </a>
-</p>
-<br clear="left"/>
-
-
-
+<table>
+  <tr>
+    <td bgcolor="#333" align="center">
+      <img src="https://flowcommunity.de/icons/Server.svg" width="24" height="24" valign="middle">
+      <font color="white"><b>FlowCommunity</b></font>
+    </td>
+    <td bgcolor="#333" align="center">
+      <img src="https://flowcommunity.de/icons/Liniengraphen.svg" width="24" height="24" valign="middle">
+      <font color="white"><b>Server Monitor</b></font>
+    </td>
+  </tr>
+</table>
 
 
 [Deutsch](#deutsch) | [English](#english)
