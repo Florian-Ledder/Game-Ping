@@ -10,7 +10,7 @@
       <img src="https://flowcommunity.de/icons/Server.svg" width="32" height="32"><br>
       <font color="#ffffff">FlowCommunity</font>
     </td>
-    <td color="#222222" align="center" width="200">
+    <td background-color="#222222" align="center" width="200">
       <img src="https://flowcommunity.de/icons/Liniengraphen.svg" width="32" height="32"><br>
       <font color="#ffffff">Server Monitor</font>
     </td>
