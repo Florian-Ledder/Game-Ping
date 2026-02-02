@@ -15,8 +15,7 @@
 Ein leistungsstarker Multi-Server-Monitor für Gameserver (Minecraft, ARK, etc.), basierend auf Node.js, GameDig und SQL.
 
 ### Features
-* **Auto-Grouping:** Erkennt Server-IDs automatisch und gruppiert die Ansi![Uploading full_html.PNG…]()
-cht dynamisch.
+* **Auto-Grouping:** Erkennt Server-IDs automatisch und gruppiert die Ansicht dynamisch.
 * **Hybrid-SQL:** Unterstützt lokale SQLite-Datenbanken oder externe MySQL/MariaDB-Server.
 * **Uptime-Tracking:** Berechnet die Verfügbarkeit basierend auf historischen Scan-Daten.
 * **Duale API:** * `/api/full` für Administratoren (voller Daten-Dump).
